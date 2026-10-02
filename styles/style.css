@@ -1,6 +1,6 @@
 * , *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; min-width: 320px; font-family: Arial, sans-serif; color: #171717; background: #f5f4ef; }
+body { margin: 0; min-width: 320px; font-family: Arial, sans-serif; color: #000000; background: #fcfdff; }
 a { color: inherit; }
 button, input, textarea, select { font: inherit; }
- .header{display:flex;justify-content:space-between;padding:24px 6vw;background:#171717;color:#fff}.header nav{display:flex;gap:24px}.hero{padding:96px 6vw;background:#d8ff55}.hero h1{max-width:760px;font-size:clamp(42px,7vw,84px);line-height:.95}.section{min-height:360px;padding:80px 6vw} 
+ .header{display:flex;justify-content:space-between;padding:24px 6vw;background:#171717;color:#fff}.header nav{display:flex;gap:24px}.hero{padding:96px 6vw;background:#299bff}.hero h1{max-width:760px;font-size:clamp(42px,7vw,84px);line-height:.95}.section{min-height:360px;padding:80px 6vw} 
